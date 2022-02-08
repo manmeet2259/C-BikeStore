@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ClassLibraryMyBikes.Bike">
+    <Position X="4.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAEAAIAEAAAAAAABAEEBAQCBAwgAgQIIAAE=</HashCode>
+      <FileName>Bike.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="color" />
+      <Field Name="type" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.242" />
+  </Class>
+  <Class Name="ClassLibraryMyBikes.MountainBike">
+    <Position X="2.75" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIAEAAAAAAAAAAAAAAAAAgBAAAAAQAE=</HashCode>
+      <FileName>MountainBike.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassLibraryMyBikes.RoadBike">
+    <Position X="6" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIAEAAAAAAAABECAAAAAggAAAAAABAE=</HashCode>
+      <FileName>RoadBike.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="suspension" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="System.Object">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="ClassLibraryMyBikes.BikeException" Collapsed="true">
+    <Position X="9.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>BikeException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassLibraryMyBikes.NotInRangeExc" Collapsed="true">
+    <Position X="9.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>NotInRangeExc.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassLibraryMyBikes.Validator" Collapsed="true">
+    <Position X="7.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAACIAAgAAAAAAAAAAAAECAAAAAEAAEAA=</HashCode>
+      <FileName>Validator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="ClassLibraryMyBikes.IMovable" Collapsed="true">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAgAAAAAAAAE=</HashCode>
+      <FileName>IMovable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="ClassLibraryMyBikes.EnumSuspension">
+    <Position X="9" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAADA=</HashCode>
+      <FileName>EnumSuspension.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ClassLibraryMyBikes.EnumColor">
+    <Position X="1.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAgAAAAAAAAAAAAAAAABAAAAAAAAAACA=</HashCode>
+      <FileName>EnumColor.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ClassLibraryMyBikes.EnumTypes">
+    <Position X="1.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAgAAAAAAAACA=</HashCode>
+      <FileName>EnumTypes.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

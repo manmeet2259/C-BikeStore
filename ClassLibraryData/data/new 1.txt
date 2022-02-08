@@ -1,0 +1,34 @@
+ //temporary records are created by using constructors
+            MountainBike m1 = new MountainBike(1001,"Suzuki","2018",EnumColor.Red,150,DateTime.Now,EnumTypes.MountainBike,155);
+            MountainBike m2 = new MountainBike(1003, "Yahama", "2018", EnumColor.Dark, 150, DateTime.Now, EnumTypes.MountainBike, 180);
+            MountainBike m3 = new MountainBike(1005, "BMW", "2018", EnumColor.Blue, 150, DateTime.Now, EnumTypes.MountainBike, 200);
+            MountainBike m4 = new MountainBike(1007, "Bajaj", "2018", EnumColor.Red, 150, DateTime.Now, EnumTypes.MountainBike, 220);
+            MountainBike m5 = new MountainBike(1009, "Honda", "2018", EnumColor.Red, 150, DateTime.Now, EnumTypes.MountainBike, 240);
+
+            RoadBike r1 = new RoadBike(1002,"Honda","2019",EnumColor.Red,EnumTypes.RoadBike,200,DateTime.Now,140,EnumSuspension.Front);
+            RoadBike r2 = new RoadBike(1004, "Bajaj", "2019", EnumColor.Red, EnumTypes.RoadBike, 200, DateTime.Now, 150, EnumSuspension.Front);
+            RoadBike r3 = new RoadBike(1006, "Yahama", "2019", EnumColor.Red, EnumTypes.RoadBike, 200, DateTime.Now, 160, EnumSuspension.Front);
+            RoadBike r4 = new RoadBike(1008, "Suzuki", "2019", EnumColor.Red, EnumTypes.RoadBike, 200, DateTime.Now, 170, EnumSuspension.Front);
+            RoadBike r5 = new RoadBike(1010, "BMW", "2019", EnumColor.Red, EnumTypes.RoadBike, 200, DateTime.Now, 180, EnumSuspension.Front);
+
+            listOfMountainBikes.Add(m1);
+            listOfMountainBikes.Add(m2);
+            listOfMountainBikes.Add(m3);
+            listOfMountainBikes.Add(m4);
+            listOfMountainBikes.Add(m5);
+            listOfRoadBikes.Add(r1);
+            listOfRoadBikes.Add(r2);
+            listOfRoadBikes.Add(r3);
+            listOfRoadBikes.Add(r4);
+            listOfRoadBikes.Add(r5);
+
+            listOfBikes.Add(m1);
+            listOfBikes.Add(r1);
+            listOfBikes.Add(m2);
+            listOfBikes.Add(r2);
+            listOfBikes.Add(m3);
+            listOfBikes.Add(r3);
+            listOfBikes.Add(r4);
+            listOfBikes.Add(m4);
+            listOfBikes.Add(m5);
+            listOfBikes.Add(r5);

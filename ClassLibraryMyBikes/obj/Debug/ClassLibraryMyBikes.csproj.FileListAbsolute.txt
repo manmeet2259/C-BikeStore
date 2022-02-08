@@ -1,0 +1,12 @@
+C:\Users\Manpreet\Desktop\Sem 2\CT2\FinalProject\MyBikes\ClassLibraryMyBikes\bin\Debug\ClassLibraryMyBikes.dll
+C:\Users\Manpreet\Desktop\Sem 2\CT2\FinalProject\MyBikes\ClassLibraryMyBikes\bin\Debug\ClassLibraryMyBikes.pdb
+C:\Users\Manpreet\Desktop\Sem 2\CT2\FinalProject\MyBikes\ClassLibraryMyBikes\obj\Debug\ClassLibraryMyBikes.csproj.CoreCompileInputs.cache
+C:\Users\Manpreet\Desktop\Sem 2\CT2\FinalProject\MyBikes\ClassLibraryMyBikes\obj\Debug\ClassLibraryMyBikes.dll
+C:\Users\Manpreet\Desktop\Sem 2\CT2\FinalProject\MyBikes\ClassLibraryMyBikes\obj\Debug\ClassLibraryMyBikes.pdb
+C:\Users\Manpreet\Desktop\Sem 2\CT2\FinalProject\MyBikes\ClassLibraryMyBikes\obj\Debug\ClassLibraryMyBikes.csprojAssemblyReference.cache
+C:\Users\Manpreet\Desktop\Sem 2\CT2\FinalProject\BikesStore\ClassLibraryMyBikes\bin\Debug\ClassLibraryMyBikes.dll
+C:\Users\Manpreet\Desktop\Sem 2\CT2\FinalProject\BikesStore\ClassLibraryMyBikes\bin\Debug\ClassLibraryMyBikes.pdb
+C:\Users\Manpreet\Desktop\Sem 2\CT2\FinalProject\BikesStore\ClassLibraryMyBikes\obj\Debug\ClassLibraryMyBikes.csprojAssemblyReference.cache
+C:\Users\Manpreet\Desktop\Sem 2\CT2\FinalProject\BikesStore\ClassLibraryMyBikes\obj\Debug\ClassLibraryMyBikes.csproj.CoreCompileInputs.cache
+C:\Users\Manpreet\Desktop\Sem 2\CT2\FinalProject\BikesStore\ClassLibraryMyBikes\obj\Debug\ClassLibraryMyBikes.dll
+C:\Users\Manpreet\Desktop\Sem 2\CT2\FinalProject\BikesStore\ClassLibraryMyBikes\obj\Debug\ClassLibraryMyBikes.pdb
